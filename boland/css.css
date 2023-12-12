@@ -109,14 +109,14 @@ h1{
 
 .content
 {
-    background-image: url("images/boland-truck.png");
+    background-image: url("images/ezgif.com-gif-maker (1).jpg");
     background-size: cover;
     width: 100%;
-    height: 100%;
+    height: 20%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 90px;
+    padding: 20px;
 }
 
 .content-pismo {
@@ -153,5 +153,10 @@ h1{
     background: transparent;
     color: #d8151d;
 }
+
+.reference h1{
+    text-align: center;
+}
+
 
 
